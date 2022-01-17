@@ -1,12 +1,8 @@
-# test-cli2
-
-# liang test
+# test-cli2 Liang test
 
 > A Vue.js project
 
 ## Build Setup
-
-# one test
 
 ``` bash
 # install dependencies
